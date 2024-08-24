@@ -1,0 +1,3 @@
+[submodule "mindsearch/mindsearch/MindSearch"]
+	path = mindsearch/mindsearch/MindSearch
+	url = https://github.com/InternLM/MindSearch.git
